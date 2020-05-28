@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fd59625-2648-4180-a67c-a3b79e783ebb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/explore_australia/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/data/deposit_locations.csv" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/data/deposit_locations.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/data/deposit_locations.geo.json" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/data/deposit_locations.geo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/data/stamp_locations.csv" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/data/stamp_locations.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/data/stamp_locations.geo.json" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/data/stamp_locations.geo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/environment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/environment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/explore_australia.sublime-project" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/explore_australia.sublime-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/explore_australia/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/explore_australia/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/explore_australia/_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/explore_australia/_version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/explore_australia/cli.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/explore_australia/cli.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/explore_australia/coverage.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/explore_australia/coverage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/explore_australia/endpoints.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/explore_australia/endpoints.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/explore_australia/geometry.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/explore_australia/geometry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/explore_australia/raster.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/explore_australia/raster.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/explore_australia/reprojection.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/explore_australia/reprojection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/explore_australia/rotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/explore_australia/rotation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/explore_australia/stamp.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/explore_australia/stamp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/explore_australia/utilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/explore_australia/utilities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/explore_australia/vector.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/explore_australia/vector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/jupyter/raster_coverage_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/jupyter/raster_coverage_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/jupyter/vector_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/jupyter/vector_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/resources/deposit_locations.png" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/resources/deposit_locations.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/resources/geology_polygons.png" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/resources/geology_polygons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/resources/layer_examples.png" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/resources/layer_examples.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/setup.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/setup.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/tests/resources/masked.tif" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/tests/resources/masked.tif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/tests/resources/masked.tif.msk" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/tests/resources/masked.tif.msk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/tests/resources/tmp.tif" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/tests/resources/tmp.tif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/tests/test_coverage.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/tests/test_coverage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/tests/test_geometry.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/tests/test_geometry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/tests/test_reprojection.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/tests/test_reprojection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/tests/test_rotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/tests/test_rotation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/tests/test_utilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/tests/test_utilities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/tests/test_vector.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/tests/test_vector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_australia/tests/test_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_australia/tests/test_version.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/explore_australia" />
+  </component>
+  <component name="ProjectId" id="1cX3xbmxTo5KK5XvZM393oR7EIf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fd59625-2648-4180-a67c-a3b79e783ebb" name="Default Changelist" comment="" />
+      <created>1590661357406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590661357406</updated>
+    </task>
+    <servers />
+  </component>
+</project>
