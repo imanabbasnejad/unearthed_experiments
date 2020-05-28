@@ -2,7 +2,7 @@
 
 
 # Install dependencies
-pip install -r requirements
+pip install -r requirements.txt
 
 # Data preparation
 python prepare_data.py
